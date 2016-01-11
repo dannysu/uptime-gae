@@ -1,0 +1,4 @@
+cron:
+- description: per minute check
+  url: /check
+  schedule: every 1 minutes
